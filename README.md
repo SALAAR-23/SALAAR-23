@@ -71,35 +71,29 @@
 
 <br/>
 
-### ⚡ &nbsp; `ACT I` &nbsp; — &nbsp; THE ARSENAL
+### ⚡ &nbsp; `SKILLS' &nbsp; — &nbsp;
 
 <br/>
 
 **Languages**
+JAVA
+PYTHON C
+C++
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=F74C00)
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go&logoColor=00ADD8)
+
 
 <br/>
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-000?style=for-the-badge&logo=framer&logoColor=0055FF)
-
+HTML
+CSS
 <br/>
 
 **Backend & Infrastructure**
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=FF4438)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+NODE.JS
+DOCKER
+
 
 <br/>
 
@@ -118,7 +112,7 @@
 
 <br/>
 
-### 🎬 &nbsp; `ACT II` &nbsp; — &nbsp; THE SCENES
+### 🎬 &nbsp; `CODE-STACKS DONE:` &nbsp; — &nbsp; THE SCENES
 
 <br/><br/>
 
@@ -197,15 +191,8 @@
 </td>
 <td width="96%" valign="top">
 
-> ### 🎬 &nbsp; PROJECT GAMMA
-> *"Where the interface becomes the story."*
->
-> A creative experiment. A product that questions what interfaces can be.  
-> Built for the few who notice the details.
->
-> `React` &nbsp; `Three.js` &nbsp; `Framer Motion` &nbsp; `Experimental`
->
-> &nbsp; [**→ See the Vision**](https://github.com/SALAAR-23/project-gamma)
+> 
+
 
 </td>
 </tr>
@@ -233,7 +220,7 @@
 
 <br/>
 
-### 🌌 &nbsp; `ACT III` &nbsp; — &nbsp; THE NUMBERS
+### 🌌 &nbsp; `` &nbsp; — &nbsp; THE NUMBERS
 
 <br/>
 
