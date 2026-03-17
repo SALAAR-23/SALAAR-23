@@ -13,7 +13,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░  TITLE SEQUENCE  ░░░░░░░░░░░░░░░░ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=52&duration=3000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=900&height=90&lines=YUVA KISHORE" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=52&duration=3000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=900&height=90&lines=YOUR+NAME" alt="Name" />
 
 <br/>
 
@@ -112,6 +112,7 @@
 <br/>
 
 <!-- ░░░░░░░░░░░░░░░░  ACT II — PROJECT SCENES  ░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░  ACT II — PROJECT SCENES  ░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
@@ -119,8 +120,7 @@
 
 ### 🎬 &nbsp; `ACT II` &nbsp; — &nbsp; THE SCENES
 
-<br/>
-<br/>
+<br/><br/>
 
 </div>
 
@@ -133,15 +133,15 @@
 </td>
 <td width="96%" valign="top">
 
-> ### 🌌 &nbsp; PROJECT ALPHA
-> *"Not a feature. A universe."*
+> ### 🌌 &nbsp; SPIRIT UNIVERSE  
+> *"Not a website. A cinematic experience."*
 >
-> A description that makes the reader lean in. What did you build? Why does it matter?  
-> Keep it short. Make it feel inevitable.
+> An immersive digital universe built with motion, darkness, and storytelling.  
+> Every interaction is intentional. Every detail is crafted.
 >
-> `TypeScript` &nbsp; `Next.js` &nbsp; `PostgreSQL` &nbsp; `Deployed`
+> `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `GSAP`
 >
-> &nbsp; [**→ Enter the Experience**](https://github.com/yourusername/project-alpha) &nbsp;|&nbsp; [**Live**](https://yourproject.com)
+> &nbsp; [**→ Enter the Experience**](https://github.com/SALAAR-23/SPIRIT-UNIVERS23) &nbsp;|&nbsp; [**Live**](https://salaar-23.github.io/SPIRIT-UNIVERS23/)
 
 </td>
 </tr>
@@ -162,15 +162,15 @@
 </td>
 <td width="96%" valign="top">
 
-> ### ⚡ &nbsp; PROJECT BETA
-> *"The infrastructure no one sees. The scale everyone feels."*
+> ### ⚡ &nbsp; SPARK PRO  
+> *"Precision cleaning. Powered by design."*
 >
-> A high-performance system built for the demands of tomorrow.  
-> Engineered with intent. Deployed with precision.
+> A modern service-based website built to deliver clarity, trust, and performance.  
+> Designed for real-world impact with a clean, conversion-focused UI.
 >
-> `Go` &nbsp; `Redis` &nbsp; `Docker` &nbsp; `AWS` &nbsp; `Production`
+> `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
 >
-> &nbsp; [**→ Study the Architecture**](https://github.com/yourusername/project-beta) &nbsp;|&nbsp; [**Docs**](https://docs.yourproject.com)
+> &nbsp; [**→ View Project**](https://github.com/SALAAR-23/SPARK-PRO) &nbsp;|&nbsp; [**Live**](https://yuva-2329.github.io/SPARK-PRO/)
 
 </td>
 </tr>
@@ -178,7 +178,13 @@
 
 <br/>
 
-<div align="center"><sub>· · · · · · · · · · · · · · ·</sub></div>
+<div align="center">
+
+<br/>
+<sub>[ &nbsp; More work lives in the dark. &nbsp; Explore the repositories below. &nbsp; ]</sub>
+<br/><br/>
+
+</div>
 
 <br/>
 
@@ -199,7 +205,7 @@
 >
 > `React` &nbsp; `Three.js` &nbsp; `Framer Motion` &nbsp; `Experimental`
 >
-> &nbsp; [**→ See the Vision**](https://github.com/yourusername/project-gamma)
+> &nbsp; [**→ See the Vision**](https://github.com/SALAAR-23/project-gamma)
 
 </td>
 </tr>
@@ -231,13 +237,13 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&bg_color=000000&border_color=222222&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SALAAR-23&show_icons=true&theme=tokyonight&bg_color=000000&border_color=222222&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=000000&border_color=222222&title_color=ffffff&text_color=888888&hide_border=false&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAAR-23&layout=compact&theme=tokyonight&bg_color=000000&border_color=222222&title_color=ffffff&text_color=888888&hide_border=false&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444&border=222222" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SALAAR-23&theme=black-ice&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444&border=222222" />
 
 <br/><br/>
 
@@ -291,8 +297,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/SALAAR-23)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SALAAR-23)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:you@email.com)
 
@@ -300,13 +306,13 @@
 
 <!-- ░░░░░░░░░░░░░░░░  ACTIVITY GRAPH  ░░░░░░░░░░░░░░░░ -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=000000&color=444444&line=333333&point=ffffff&area=true&area_color=111111&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAAR-23&bg_color=000000&color=444444&line=333333&point=ffffff&area=true&area_color=111111&hide_border=true" width="95%" />
 
 <br/><br/>
 
 <!-- ░░░░░░░░░░░░░░░░  PROFILE VIEWS  ░░░░░░░░░░░░░░░░ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=000000&style=for-the-badge&label=WITNESSES)
+![Profile Views](https://komarev.com/ghpvc/?username=SALAAR-23&color=000000&style=for-the-badge&label=WITNESSES)
 
 <br/><br/><br/>
 
@@ -321,18 +327,3 @@
 <!-- ░░░░░░░░░░░░░░░░  FOOTER WAVE  ░░░░░░░░░░░░░░░░ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d0d0d,100:000000&height=120&section=footer" width="100%" />
-
-<!--
-**SALAAR-23/SALAAR-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
