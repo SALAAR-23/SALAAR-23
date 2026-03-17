@@ -13,7 +13,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░  TITLE SEQUENCE  ░░░░░░░░░░░░░░░░ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=52&duration=3000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=900&height=90&lines=YOUR+NAME" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=52&duration=3000&pause=4000&color=FFFFFF&center=true&vCenter=true&width=900&height=90&lines=YUVA+KISHORE" alt="Name" />
 
 <br/>
 
